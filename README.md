@@ -1,4 +1,4 @@
-Rufus: The Reliable USB Formatting Utility
+Rufus: Luotettava USB-formatointi työkalu
 ==========================================
 
 [![Build status](https://img.shields.io/appveyor/ci/pbatard/rufus.svg?style=flat-square)](https://ci.appveyor.com/project/pbatard/rufus)
@@ -9,9 +9,10 @@ Rufus: The Reliable USB Formatting Utility
 
 ![Rufus logo](https://raw.githubusercontent.com/pbatard/rufus/master/res/icons/rufus-128.png)
 
+Rufus on vapaan lähdekoodin työkalu, jolla voi formatoida ja luoda bootattavia muistitikkuja tai DVD-levyjä.
 Rufus is a utility that helps format and create bootable USB flash drives.
 
-Features
+Ominaisuudet
 --------
 
 * Format USB, flash card and virtual drives to FAT/FAT32/NTFS/UDF/exFAT/ReFS/ext2/ext3
@@ -27,7 +28,7 @@ Features
 * Perform bad blocks checks, including detection of "fake" flash drives
 * Modern and familiar UI, with [38 languages natively supported](https://github.com/pbatard/rufus/wiki/FAQ#What_languages_are_natively_supported_by_Rufus)
 * Small footprint. No installation required.
-* Portable
+* Portattava
 * 100% [Free Software](https://www.gnu.org/philosophy/free-sw) ([GPL v3](https://www.gnu.org/licenses/gpl-3.0))
 
 Compilation
